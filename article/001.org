@@ -1,0 +1,13 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: -:nil
+#+OPTIONS: ^:{}
+ 
+* 001
+
+  ![[./img/title.png][kriimupaalle]]
+
+  <br>
+  <br>
+  (c) 2019 jamcha (jamcha.aa@gmail.com).
+
+  ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
