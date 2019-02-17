@@ -1,0 +1,12 @@
+
+
+# faralda02
+
+改めてシフからミラークの実力を聞いたファラルダは，「うーん」と机にひじをつき，手を頬に当て考える様子を見せる。
+
+<br>
+<br>
+(c) 2019 jamcha (jamcha.aa@gmail.com).
+
+![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
