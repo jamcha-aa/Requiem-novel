@@ -2,7 +2,7 @@ const summary = require('./summary.js');
 
 module.exports = {
     title: 'Requiem: クリームパーレ',
-    description: ' ',
+    description: 'いずれ，この星はオブリビオンの世界へと戻るのだ。',
     locales: {
         '/': {
             lang: 'ja'
