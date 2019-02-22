@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: 読む
-actionLink: /article/001.html
+actionLink: /article/
 ---
 
 <br>
@@ -20,7 +20,10 @@ Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).
 This novel is licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) unless otherwise noted.  
 The Elder Scrolls V: Skyrim is a copyrighted work of the Bethesda Softworks LLC and the ZeniMax Media company.  
 Requiem - The Roleplaying Overhaul is a project of Requiem Dungeon Masters and others.  
-Game contents and materials are trademarks and copyrights of their respective publisher and its licensors. All rights reserved.  
+Dragon Combat Overhaul is a project of ApolloDown.  
+ElinRace NewNPC is a project of kro.  
+Populated are projects of Erkeil.  
+Game contents and materials are trademarks and copyrights of their respective publisher, authors and its licensors. All rights reserved.  
 Dragon Alphabets are made with "The Dragon Shout," a true type font.
 
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
