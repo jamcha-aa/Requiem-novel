@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: 読む
-actionLink: /article/001.html
+actionLink: /article/
 ---
 
 <br>
