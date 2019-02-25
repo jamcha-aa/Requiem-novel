@@ -22,7 +22,8 @@ The Elder Scrolls V: Skyrim is a copyrighted work of the Bethesda Softworks LLC 
 Requiem - The Roleplaying Overhaul is a project of Requiem Dungeon Masters and others.  
 Dragon Combat Overhaul is a project of ApolloDown.  
 ElinRace NewNPC is a project of kro.  
-Populated are projects of Erkeil.  
+Wenches series are projects of Kozuke Hajime.  
+Populated series are projects of Erkeil.  
 Game contents and materials are trademarks and copyrights of their respective publisher, authors and its licensors. All rights reserved.  
 Dragon Alphabets are made with "The Dragon Shout," a true type font.
 
