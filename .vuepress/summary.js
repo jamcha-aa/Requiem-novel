@@ -6,7 +6,7 @@ exports.genSidebarConfig = function () {
             },
             {
                 title: 'ショールストーンの鍛冶屋',
-                children: ['013', '014', '015', '016']
+                children: ['013', '014', '015', '016', '017']
             }
     ]
 }
