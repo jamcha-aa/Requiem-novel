@@ -1,0 +1,13 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: -:nil
+#+OPTIONS: ^:{}
+ 
+* 024
+
+  馬車がリフテンに到着すると，真っ青な顔のシフがよたよたと地面におりた。車酔いではない。大量の錬金素材を口にしたせいで，それが胃のなかで暴れまわっているのだ。
+
+  <br>
+  <br>
+  (c) 2019 jamcha (jamcha.aa@gmail.com).
+
+  ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
