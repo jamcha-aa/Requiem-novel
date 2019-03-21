@@ -10,7 +10,7 @@ exports.genSidebarConfig = function () {
             },
             {
                 title: 'エンバーシャード鉱山',
-                children: ['032', '033']
+                children: ['032', '033', '034']
             }
     ]
 }
