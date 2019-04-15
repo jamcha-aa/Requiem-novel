@@ -14,7 +14,7 @@ exports.genSidebarConfig = function () {
             },
             {
             title: '同胞団',
-                children: ['049', '050']
+                children: ['049', '050', '051']
             }
     ]
 }
