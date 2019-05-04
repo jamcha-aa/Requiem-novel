@@ -1,11 +1,11 @@
 language: node_js
 node_js:
-    - "10"
+    - "8"
 services:
     - docker
 
 script:
-    - docker run --rm node:10 bash -c "yarn global add vuepress@next && yarn build"
+    - docker run --rm -v $(pwd) node:8 bash -c "yarn global add vuepress@next && yarn build"
 cache:
     directories:
         - "node_modules"
