@@ -7,7 +7,7 @@ services:
     - docker
 
 script:
-    - docker run --rm -v "$(pwd):/Requiem-novel" node:10 bash -c "yarn global add vuepress@next && yarn build"
+    - docker run --rm -v "$(pwd)" node:10 bash -c "npm install -g vuepress@next && npm run docs:build"
 cache:
     directories:
         - "node_modules"
