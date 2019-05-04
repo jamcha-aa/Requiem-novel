@@ -1,19 +1,12 @@
 language: node_js
 node_js:
     - "10"
-env:
-    - CXX=g++-4.8
+services:
+    - docker
 
-addons:
-    apt:
-        sources:
-            - ubuntu-toolchain-r-test
-        packages:
-            - g++-4.8
-install:
-    - npm install -g vuepress@next
 script:
-    - npm run docs:build
+    - make package
+    - docker run --rm -v "$(pwd):/" node:10 bash -c "cd / && yarn global add vuepress@next && yarn build"
 cache:
     directories:
         - "node_modules"
