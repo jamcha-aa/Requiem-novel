@@ -5,8 +5,7 @@ services:
     - docker
 
 script:
-    - make package
-    - docker run --rm -v "$(pwd):/" node:10 bash -c "cd / && yarn global add vuepress@next && yarn build"
+    - docker run --rm node:10 bash -c "yarn global add vuepress@next && yarn build"
 cache:
     directories:
         - "node_modules"
